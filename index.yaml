@@ -9,4 +9,13 @@ entries:
     urls:
     - https://toshi-qcri.github.io/helm-charts-test/toshi-bitcoin-parser-0.0.0.tgz
     version: 0.0.0
-generated: "2021-01-19T11:29:50.216497809Z"
+  toshi-darkweb-graph-builder:
+  - apiVersion: v1
+    created: "2021-04-13T22:18:14.517501678Z"
+    description: The Helm chart for the Toshi darkweb graph builder
+    digest: bed8b30e14eed20637ab5228064fdddec19dbe55896a9973d1f8488965617d66
+    name: toshi-darkweb-graph-builder
+    urls:
+    - https://toshi-qcri.github.io/helm-charts-test/toshi-darkweb-graph-builder-0.0.0.tgz
+    version: 0.0.0
+generated: "2021-04-13T22:18:14.517029077Z"
