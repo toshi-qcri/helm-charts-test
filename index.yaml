@@ -11,11 +11,11 @@ entries:
     version: 0.0.0
   toshi-darkweb-graph-builder:
   - apiVersion: v1
-    created: "2021-04-14T15:26:18.564493064Z"
+    created: "2021-04-14T15:37:10.058118426Z"
     description: The Helm chart for the Toshi darkweb graph builder
-    digest: 869245e740f87b7d94a7a4b0ce1f441703a315226373dec7165dc45b29643c05
+    digest: 02e42e74b62659fa4dff4484c4dc7d844a609d9c63227465c265c61eaa7e7d3f
     name: toshi-darkweb-graph-builder
     urls:
     - https://toshi-qcri.github.io/helm-charts-test/toshi-darkweb-graph-builder-0.0.0.tgz
     version: 0.0.0
-generated: "2021-04-14T15:26:18.563996645Z"
+generated: "2021-04-14T15:37:10.057676029Z"
