@@ -2,9 +2,9 @@ apiVersion: v1
 entries:
   darkweb-recrawler:
   - apiVersion: v1
-    created: "2021-06-11T18:39:21.326033067Z"
+    created: "2021-06-12T01:45:16.954624891Z"
     description: The Helm chart for the Darkweb re-crawler
-    digest: e8f52ea136c906ee6112ce2e79b52b925e6cd54f3d78a830af6853db710c268d
+    digest: 45e343dbfbfffd4e5f0d698573dc66b273d1860fd19c5028fc8a5e7e0c3ac787
     name: darkweb-recrawler
     urls:
     - https://toshi-qcri.github.io/helm-charts-test/darkweb-recrawler-0.0.0.tgz
@@ -27,4 +27,4 @@ entries:
     urls:
     - https://toshi-qcri.github.io/helm-charts-test/toshi-darkweb-graph-builder-0.0.0.tgz
     version: 0.0.0
-generated: "2021-06-11T18:39:21.325637834Z"
+generated: "2021-06-12T01:45:16.954178985Z"
