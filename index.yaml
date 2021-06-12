@@ -9,6 +9,15 @@ entries:
     urls:
     - https://toshi-qcri.github.io/helm-charts-test/darkweb-recrawler-0.0.0.tgz
     version: 0.0.0
+  sup-darkweb-crawler:
+  - apiVersion: v1
+    created: "2021-06-12T16:09:58.315855239Z"
+    description: The Helm chart for the Supplementary Darkweb Crawler
+    digest: c4ba33f134598b175af7cc897428e34fbc7ff227637f33cbe209f82d2b400ca1
+    name: sup-darkweb-crawler
+    urls:
+    - https://toshi-qcri.github.io/helm-charts-test/sup-darkweb-crawler-0.0.0.tgz
+    version: 0.0.0
   toshi-bitcoin-parser:
   - apiVersion: v1
     created: "2021-01-19T11:29:50.21696151Z"
@@ -27,4 +36,4 @@ entries:
     urls:
     - https://toshi-qcri.github.io/helm-charts-test/toshi-darkweb-graph-builder-0.0.0.tgz
     version: 0.0.0
-generated: "2021-06-12T15:25:44.988471436Z"
+generated: "2021-06-12T16:09:58.315383837Z"
