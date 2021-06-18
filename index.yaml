@@ -9,6 +9,15 @@ entries:
     urls:
     - https://toshi-qcri.github.io/helm-charts-test/darkweb-recrawler-0.0.0.tgz
     version: 0.0.0
+  gp-store:
+  - apiVersion: v1
+    created: "2021-06-18T16:56:18.361808807Z"
+    description: The Helm chart for tor proxy
+    digest: d69541aabbb58c9401a09d119a1893c3e5695fd6f621a3c6b44c8d1866014114
+    name: gp-store
+    urls:
+    - https://toshi-qcri.github.io/helm-charts-test/gp-store-0.0.0.tgz
+    version: 0.0.0
   sup-darkweb-crawler:
   - apiVersion: v1
     created: "2021-06-12T17:56:54.743851998Z"
@@ -36,4 +45,4 @@ entries:
     urls:
     - https://toshi-qcri.github.io/helm-charts-test/toshi-darkweb-graph-builder-0.0.0.tgz
     version: 0.0.0
-generated: "2021-06-12T17:56:54.742128777Z"
+generated: "2021-06-18T16:56:18.36141418Z"
