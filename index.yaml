@@ -20,9 +20,9 @@ entries:
     version: 0.0.0
   gp-store:
   - apiVersion: v1
-    created: "2021-06-18T16:56:18.361808807Z"
+    created: "2021-06-21T01:09:46.011340279Z"
     description: The Helm chart for tor proxy
-    digest: d69541aabbb58c9401a09d119a1893c3e5695fd6f621a3c6b44c8d1866014114
+    digest: 04fb3d622f396b535c498d2b9539e0b5db22b935a996e9f6262aff94ecda19c6
     name: gp-store
     urls:
     - https://toshi-qcri.github.io/helm-charts-test/gp-store-0.0.0.tgz
@@ -54,4 +54,4 @@ entries:
     urls:
     - https://toshi-qcri.github.io/helm-charts-test/toshi-darkweb-graph-builder-0.0.0.tgz
     version: 0.0.0
-generated: "2021-06-20T05:32:30.471028956Z"
+generated: "2021-06-21T01:09:46.010996676Z"
