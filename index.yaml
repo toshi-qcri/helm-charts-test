@@ -36,6 +36,15 @@ entries:
     urls:
     - https://toshi-qcri.github.io/helm-charts-test/sup-darkweb-crawler-0.0.0.tgz
     version: 0.0.0
+  torproxy:
+  - apiVersion: v1
+    created: "2021-06-21T01:16:56.478257199Z"
+    description: The Helm chart for tor proxy
+    digest: 5a3953f667e92100a59170c7df859f27f0c396379344dccc7d9d2a6e53d5f13a
+    name: torproxy
+    urls:
+    - https://toshi-qcri.github.io/helm-charts-test/torproxy-0.0.0.tgz
+    version: 0.0.0
   toshi-bitcoin-parser:
   - apiVersion: v1
     created: "2021-01-19T11:29:50.21696151Z"
@@ -54,4 +63,4 @@ entries:
     urls:
     - https://toshi-qcri.github.io/helm-charts-test/toshi-darkweb-graph-builder-0.0.0.tgz
     version: 0.0.0
-generated: "2021-06-21T01:09:46.010996676Z"
+generated: "2021-06-21T01:16:56.477872782Z"
